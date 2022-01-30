@@ -20,8 +20,11 @@
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="30" height="30"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="30" height="30"/> </a>
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="30" height="30"/> </a>
+<a href="https://www.rhino3d.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/theaveas/theaveas/blob/main/media/rhinoceros3d.png"  alt="rhino3d" width="30" height="30"/> </a> 
+<a href="https://www.rhino3d.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/theaveas/theaveas/blob/main/media/grasshopper.jpeg"  alt="rhino3d" width="30" height="30"/> </a> 
 <a href="https://www.sidefx.com/" target="_blank" rel="noreferrer"> <img src="https://logovtor.com/wp-content/uploads/2020/02/houdini-logo-vector.png"  alt="sidefx" width="50" height="30"/> </a> 
 </p>
+
  
 <p align="left"> 
 
