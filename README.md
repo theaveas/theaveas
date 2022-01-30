@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/theaveas](https://github.com/theaveas)
 
-- 💬 Happy to chat with you things related to **Computational Design, AI, Cryptocurrencies, Blockchain and Life**
+- 💬 Happy to chat with you about topics related to **Computational Design, AI, Cryptocurrencies, Blockchain and Life**
 
 - 📫 How to reach me **theaveas.so@gmail.com**
 
@@ -25,10 +25,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theaveas&repo=ComputationalDesign-for-Architect&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-
 <a href="https://github.com/theaveas/Deep-Learning">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theaveas&repo=/Deep-Learning&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theaveas&repo=Deep-Learning&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
 
 
 ## 🔧 My main Languages and Tools:
