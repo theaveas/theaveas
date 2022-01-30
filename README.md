@@ -1,7 +1,9 @@
+[![MasterHead](https://github.com/theaveas/theaveas/blob/main/media/banner.jpg)](https://www.instagram.com/theaveas.so/)
 
 <h2 align="left">Hi there ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">🤖</h2>
 
 <p align="left">My name Theaveas So, Architecture Student, A computational designer, interested in the intersection of Artificial Intelligence, Architecture, and Generative Art. I'm from Cambodia and currently studying in China.</p>
+ <img align="right" src="https://github.com/theaveas/theaveas/blob/main/media/programming.gif" alt="profile" width="400" height="300"/> 
 <br>
 
 - 🌱 I’m currently focusing on **Machine Learning, Deep Learning and Procedural Modeling**
