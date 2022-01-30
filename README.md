@@ -1,3 +1,4 @@
+
 <h2 align="left">Hi there ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">🤖</h2>
 
 <p align="left">My name Theaveas So, Architecture Student, A computational designer, interested in the intersection of Artificial Intelligence, Architecture, and Generative Art. I'm from Cambodia and currently studying in China.</p>
@@ -13,6 +14,7 @@
 
 - ⚡ Fun fact 2 years ago, I was in the best shape of my life, then I learned how to code and now I look like a slob. 100% worth it 🤓<br>
  
+<!-- Code by https://github.com/MartinHeinz/MartinHeinz -->
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/theaveas/theaveas">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theaveas&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
@@ -28,8 +30,6 @@
 <a href="https://github.com/theaveas/Deep-Learning">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theaveas&repo=Deep-Learning&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-
-
 
 
 ## 🔧 My main Languages and Tools:
