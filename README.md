@@ -27,6 +27,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theaveas&repo=ComputationalDesign-for-Architect&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
+<a href="https://github.com/theaveas/Deep-Learning">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theaveas&repo=Deep-Learning&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
 
 ## 🔧 My main Languages and Tools:
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> 
