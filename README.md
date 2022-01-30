@@ -27,8 +27,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theaveas&repo=ComputationalDesign-for-Architect&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/theaveas/Deep-Learning">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theaveas&repo=Deep-Learning&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/theaveas/DeepLearning">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theaveas&repo=DeepLearning&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
