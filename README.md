@@ -4,7 +4,6 @@
 
 <p align="left">My name Theaveas So, Architecture Student, A computational designer, interested in the intersection of Artificial Intelligence, Architecture, and Generative Art. I'm from Cambodia and currently studying in China.</p>
  <img align="right" src="https://github.com/theaveas/theaveas/blob/main/media/programming.gif" alt="profile" width="400" height="300"/> 
-<br>
 
 - 🌱 I’m currently focusing on **Machine Learning, Deep Learning and Procedural Modeling**
 
@@ -17,7 +16,7 @@
 - ⚡ Fun fact 2 years ago, I was in the best shape of my life, then I learned how to code and now I look like a slob. 100% worth it 🤓<br>
  
 
-## 🔧 My main Languages and Tools:
+#### My main Languages and Tools:
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> 
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="30" height="30"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="30" height="30"/> </a>
