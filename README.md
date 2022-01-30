@@ -1,5 +1,5 @@
 <h2 align="left">Hi 🤖, I'm Theaveas So</h2>
-<h3 align="left">Architecture Student, A computational designer, interested in the intersection of Artificial Intelligence, Architecture, and Generative Art.</h3>
+<p align="left">Architecture Student, A computational designer, interested in the intersection of Artificial Intelligence, Architecture, and Generative Art.</p>
 <br>
 
 - 🌱 I’m currently focusing on **Machine Learning, Deep Learning and Procedural Modeling**
