@@ -14,24 +14,6 @@
 
 - ⚡ Fun fact 2 years ago, I was in the best shape of my life, then I learned how to code and now I look like a slob. 100% worth it 🤓<br>
  
-<!-- Code by https://github.com/MartinHeinz/MartinHeinz -->
-## &#x1f4c8; GitHub Stats
-<a href="https://github.com/theaveas/theaveas">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theaveas&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/theaveas/theaveas">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=theaveas&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="theaveas's GitHub Stats" />
-</a>
-
-<a href="https://github.com/theaveas/ComputationalDesign-for-Architect">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theaveas&repo=ComputationalDesign-for-Architect&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/theaveas/DeepLearning">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theaveas&repo=DeepLearning&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-
 
 ## 🔧 My main Languages and Tools:
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> 
