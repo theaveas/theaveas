@@ -8,8 +8,6 @@
 
 - 💬 Happy to chat with you about topics related to **Computational Design, AI, Cryptocurrencies, Blockchain and Life**
 
-- 📫 How to reach me **theaveas.so@gmail.com**
-
 - ⚡ Fun fact 2 years ago, I was in the best shape of my life, then I learned how to code and now I look like a slob. 100% worth it 🤓<br>
  
 
