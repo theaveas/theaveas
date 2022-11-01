@@ -2,7 +2,7 @@
 
 <p align="left">My name Theaveas So, Architecture Student, A computational designer, interested in the intersection of Artificial Intelligence, Architecture, and Generative Art. I'm from Cambodia and currently studying in China.</p>
 
-- 🌱 I’m currently learning  **Machine Learning, Deep Learning and Procedural Modeling**
+- 🌱 I’m currently learning  **AWS and Software Development relate topics**
 
 - 👨‍💻 All of my projects are available at [https://github.com/theaveas](https://github.com/theaveas)
 
