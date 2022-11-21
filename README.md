@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning  **AWS and Software Development relate topics**
 
-- 👨‍💻 All of my projects are available at [https://github.com/theaveas](https://github.com/theaveas)
+- 👨‍💻 All of my projects are available at [https://github.com/theaveas](https://github.com/theaveasso)
 
 - 💬 Happy to chat with you about topics related to **Computational Design, AI, Cryptocurrencies, Blockchain and Life**
 
