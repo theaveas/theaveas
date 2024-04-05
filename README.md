@@ -6,10 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/theaveas](https://github.com/theaveasso)
 
-- 💬 Happy to chat with you about topics related to **Computational Design, AI, Cryptocurrencies, Blockchain and Life**
-
-- ⚡ Fun fact 2 years ago, I was in the best shape of my life, then I learned how to code and now I look like a slob. 100% worth it 🤓<br>
- 
+- 💬 Happy to chat with you about topics related to **Computational Design, AI, Cryptocurrencies, Blockchain and Life** 
 
 #### My main Languages and Tools:
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> 
